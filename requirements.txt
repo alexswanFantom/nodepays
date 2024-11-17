@@ -1,0 +1,10 @@
+cloudscraper==1.2.71
+loguru==0.7.2
+requests
+colorama
+faker
+capmonster-python
+python-anticaptcha
+2captcha-python
+anticaptchaofficial
+pycryptodome
